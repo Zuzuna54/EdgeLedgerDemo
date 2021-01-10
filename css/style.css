@@ -234,6 +234,7 @@ img {
 
 .footer a:hover {
   color: #28a745;
+  transition: 0.5s;
 }
 
 .footer .social > * {
